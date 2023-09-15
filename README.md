@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdullah Ajmal
 - 👀 I’m interested in Natural Language Processing, Backend Web Development and Pen Testing 
-- 🌱 I’m currently learning Django, Natural Language Processing
+- 🌱 I’m currently learning Django, Natural Language Processing using TensorFlow
 - 📫 You can reach me on work.abdullahajmal@gmail.com
 
 <!---
