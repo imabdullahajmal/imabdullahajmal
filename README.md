@@ -1,7 +1,7 @@
 <h1 align="center">HI, I'm Abdullah Ajmal</h1>
 
 - 👀 I’m interested in Natural Language Processing, Backend Web Development and Pen Testing 
-- 🌱 I’m currently learning Django and Natural Language Processing using TensorFlow
+- 🌱 I’m currently learning Django and Natural Language
 - 📫 You can reach me on work.abdullahajmal@gmail.com
 <div align="center">
 <a href="linkedin.com/abdullah-ajmal">
