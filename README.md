@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Node.js and API development
 - 📫 You can reach me on work.abdullahajmal@gmail.com
 <div align="center">
-<a href="https://linkedin.com/abdullah-ajmal">
+<a href="https://linkedin.com/in/abdullah-ajmal">
   <img src="https://img.icons8.com/?size=1x&id=13930&format=png"></a>
 </a>
 <a href="https://instagram.com/xo71c">
