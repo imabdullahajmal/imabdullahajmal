@@ -4,13 +4,13 @@
 - 🌱 I’m currently learning Node.js and API development
 - 📫 You can reach me on work.abdullahajmal@gmail.com
 <div align="center">
-<a href="linkedin.com/abdullah-ajmal">
+<a href="https://linkedin.com/abdullah-ajmal">
   <img src="https://img.icons8.com/?size=1x&id=13930&format=png"></a>
 </a>
-<a href="instagram.com/xo71c">
+<a href="https://instagram.com/xo71c">
   <img src="https://img.icons8.com/?size=1x&id=32323&format=png"></a>
 </a>
-<a href="twitter.com/xo71c">
+<a href="https://twitter.com/xo71c">
   <img src="https://img.icons8.com/?size=1x&id=13963&format=png"></a>
 </a>
 <a href="https://stackoverflow.com/users/19872877/abdullah-ajmal">
