@@ -7,10 +7,7 @@
 <a href="https://linkedin.com/in/abdullah-ajmal">
   <img src="https://img.icons8.com/?size=1x&id=13930&format=png"></a>
 </a>
-<a href="https://instagram.com/xo71c">
-  <img src="https://img.icons8.com/?size=1x&id=32323&format=png"></a>
-</a>
-<a href="https://twitter.com/xo71c">
+<a href="https://x.com/xo71c">
   <img src="https://img.icons8.com/?size=1x&id=13963&format=png"></a>
 </a>
 <a href="https://stackoverflow.com/users/19872877/abdullah-ajmal">
