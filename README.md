@@ -58,11 +58,6 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
 </p>
 
-<h3 align="center">Design Tools</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-</p>
-
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
