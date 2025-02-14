@@ -1,7 +1,7 @@
 <h1 align="center">HI, I'm Abdullah Ajmal</h1>
 
-- 👀 I’m interested in Natural Language Processing, Backend Web Development and Pen Testing 
-- 🌱 I’m currently learning Node.js and API development
+- 👀 I’m interested in Fullstack Development, AI Chat Assistant Development and Cloud Computing.
+- 🌱 I’m currently learning MERN Stack and ML.
 - 📫 You can reach me on work.abdullahajmal@gmail.com
 <div align="center">
 <a href="https://linkedin.com/in/abdullah-ajmal">
