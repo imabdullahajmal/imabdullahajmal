@@ -11,8 +11,6 @@
 ---
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
-
-<p align="center">
   ![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=white)
@@ -32,7 +30,6 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=white)
-</p>
 
 ---
 
