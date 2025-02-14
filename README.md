@@ -1,4 +1,4 @@
-<h1 align="center">HI, I'm Abdullah Ajmal</h1>
+<h1 align="center">Heya, I'm Abdullah Ajmal</h1>
 
 - 👀 I’m interested in Fullstack Development, AI Chat Assistant Development and Cloud Computing.
 - 🌱 I’m currently learning MERN Stack and ML.
