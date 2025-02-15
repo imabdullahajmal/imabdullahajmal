@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Ajmal</h1>
-<span align="center">Software Engineer | Cloud Enthusiast</span>
+<div align="center">Software Engineer | Cloud Enthusiast</div>
 
 
 ---
