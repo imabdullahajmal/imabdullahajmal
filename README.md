@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Ajmal</h1>
 <h3 align="center">Software Engineer | Cloud Enthusiast</h3>
-
+<br>
 ---
 ## 📬 Connect with Me
 
