@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Ajmal</h1>
 <h3 align="center">Software Engineer | Cloud Enthusiast</h3>
-<br>
+
+
 ---
 ## 📬 Connect with Me
 
@@ -8,7 +9,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imabdullahajmal)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xo71c)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.abdullahajmal@gmail.com)
-
 
 
 ---
